@@ -1,0 +1,25 @@
+ .body{
+    margin-right: 130px;
+    margin-left: 130ps;
+}
+
+.schedule-container { 
+    min-width: 500px;
+}
+
+.input-container {
+    min-width: 500px;
+}
+
+.table {
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    color: blue;
+    background-color: darkgrey; 
+    min-width: 500px;
+    align-content: center 
+}
